@@ -1,5 +1,5 @@
 # Vibe-cod3
-# Ignas Rasimavičius - Portfolio
+# Ignas- Portfolio
 
 
 ## Projects
