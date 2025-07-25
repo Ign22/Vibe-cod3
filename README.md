@@ -10,9 +10,7 @@
 - **Outcome**: Developed basic automation scripts (to be expanded—check the `automation` folder).
 
 
-## Contact
-- Email: Ignas22@outlook.com
-- Phone: +37062783423
+
 
 
 ## Future Plans
